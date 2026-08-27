@@ -57,7 +57,8 @@ a las demás fases.
 <img width="1158" height="757" alt="image" src="https://github.com/user-attachments/assets/e1651f81-ca63-4a09-81d8-edda76eab71b" />
 
 #semana 5
-<img width="1146" height="789" alt="image" src="https://github.com/user-attachments/assets/a72701c4-f5a2-4e83-8525-05820eb6a6ac" />
+<img width="1024" height="431" alt="image" src="https://github.com/user-attachments/assets/8dd968f8-03da-4f17-9521-e4486b1547e6" />
+
 ### Regla Lógica: Pregunta vs. Afirmación (Semana 5 — Fase 2/5)
 
 Antes de enrutar el dato al árbol de decisión (Fase 5.1), Vero aplica una regla
