@@ -58,5 +58,37 @@ a las demás fases.
 
 #semana 5
 <img width="1146" height="789" alt="image" src="https://github.com/user-attachments/assets/a72701c4-f5a2-4e83-8525-05820eb6a6ac" />
+### Regla Lógica: Pregunta vs. Afirmación (Semana 5 — Fase 2/5)
 
+Antes de enrutar el dato al árbol de decisión (Fase 5.1), Vero aplica una regla
+de dos pasos para etiquetar el mensaje como **Pregunta** o **Afirmación/Reporte**:
+
+1. **Signo de interrogación:** ¿el mensaje contiene "?" en cualquier posición?
+   (se busca solo el cierre "?", ya que en chat/WhatsApp el "¿" inicial suele omitirse).
+2. **Palabra interrogativa (fallback si no hay "?"):** ¿el mensaje contiene
+   qué, cómo, cuándo, cuál/cuáles, dónde, por qué, quién o cuánto?
+
+Si ninguna condición se cumple, el mensaje se etiqueta como **Afirmación/Reporte**
+y dispara diagnóstico o apertura de caso. Si alguna se cumple, se etiqueta como
+**Pregunta** y el bot responde o pide un dato puntual, sin iniciar diagnóstico.
+
+\`\`\`
+función clasificar_tipo(mensaje):
+    si "?" en mensaje:
+        retornar "Pregunta"
+    si mensaje contiene alguna de [qué, cómo, cuándo, cuál, dónde, por qué, quién, cuánto]:
+        retornar "Pregunta"
+    retornar "Afirmación/Reporte"
+\`\`\`
+
+| Mensaje del usuario | Tipo | Motivo |
+|---|---|---|
+| "No tengo internet desde hace 2 horas" | Afirmación/Reporte | Sin "?" ni palabra interrogativa → dispara diagnóstico de conexión |
+| "¿Cuáles son sus horarios?" | Pregunta | Contiene "?" → respuesta directa, sin diagnóstico |
+| "¿Por qué me cobraron de más?" | Pregunta | Contiene "?" → el bot responde/consulta antes de escalar, aunque el tema sea facturación |
+| "Me cobraron de más otra vez" | Afirmación/Reporte | Sin "?" → dispara flujo de disputa de factura (Fase 5.1b) |
+
+> **Nota:** esta regla es un filtro liviano de forma, no de intención. Una
+> "pregunta" con carga de queja (ej. "¿por qué me cobraron de más?") igual
+> puede derivar a facturación humana si no coincide el monto (ver árbol 5.1b).
 
