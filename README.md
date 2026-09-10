@@ -94,7 +94,7 @@ función clasificar_tipo(mensaje):
 > puede derivar a facturación humana si no coincide el monto (ver árbol 5.1b).
 
 
-## 2. Arquitectura de atencion
+## 2. Arquitectura de atencion Semana 6
 Modo Primario — Técnico Paciente (Por defecto)
 
 Propósito: Resolución de problemas técnicos rutinarios y soporte estándar.
