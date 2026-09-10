@@ -93,3 +93,8 @@ función clasificar_tipo(mensaje):
 > "pregunta" con carga de queja (ej. "¿por qué me cobraron de más?") igual
 > puede derivar a facturación humana si no coincide el monto (ver árbol 5.1b).
 
+
+## 2. Arquitectura de atencion
+
+                       
+
