@@ -140,7 +140,7 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 ### SEMANA 7 
    | Columna 1 | Columna 2 |
 | --- | --- |
-| Dato A | Dato B |
-| Dato A | Dato B |
+| Facturación y Cobro | Fechas de corte, fecha límite de pago y fechas de suspensión de servicio por mora. |
+| Procesos y Normativa| registro de notas de llamada, creación de tiquetes y agendamiento de visitas técnicas |
 | Dato A | Dato B |                       
 | Dato A | Dato B |
