@@ -140,7 +140,7 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 ### SEMANA 7 
    | Columna 1 | Columna 2 |
 | --- | --- |
-| Facturación y Cobro | Fechas de corte, fecha límite de pago y fechas de suspensión de servicio por mora, Explicación de cargos fijos, cobros por prorrateo (altas/cambios a mitad de mes), consumos adicionales y reconexión, Medios de Pago |
+| Facturación y Cobro | Fechas de corte, fecha límite de pago y fechas de suspensión de servicio por mora, Explicación de cargos fijos, cobros por prorrateo (altas/cambios a mitad de mes), consumos adicionales y reconexión, Medios de Pago y politica de compensacion |
 | Procesos y normativa| registro de notas de llamada, creación de tiquetes y agendamiento de visitas técnicas, Gestión de PQR (Peticiones, Quejas, Reclamos), cancelaciones y protección de datos. |
 | Portafolio de servicios | Precios, gigas/minutos incluidos, velocidades de bajada/subida (fibra vs. móvil) y políticas de uso justo, Modelos de módems/routers (ONT), decodificadores de TV, repetidores Wi-Fi y teléfonos del catálogo. |                  
 | Soporte técnico basico | Significado de las luces del módem, protocolo de reinicio, estado del cableado y reporte de fallas, Cambio de nombre/clave de Wi-Fi, diferencias entre redes 2.4 GHz y 5 GHz, y configuración de APN/roaming móvil, Diferenciación entre falla física de red, saturación Wi-Fi, bloqueo por pago o fallo del equipo del usuario. |
