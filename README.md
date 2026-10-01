@@ -137,7 +137,7 @@ Sin alertas críticas: Mantiene el modo Técnico Paciente para dar seguimiento i
 
 Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la validación emocional y postergando la instrucción técnica hasta haber establecido confianza.
 
-### SEMANA 7 Y 8
+### SEMANA 7 
    | Columna 1 | Columna 2 |
 | --- | --- |
 | Dato A | Dato B |
