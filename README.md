@@ -140,7 +140,7 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 ### SEMANA 7 
    | Columna 1 | Columna 2 |
 | --- | --- |
-| Facturación y Cobro | Fechas de corte, fecha límite de pago y fechas de suspensión de servicio por mora. |
-| Procesos y Normativa| registro de notas de llamada, creación de tiquetes y agendamiento de visitas técnicas |
-| Dato A | Dato B |                       
+| Facturación y Cobro | Fechas de corte, fecha límite de pago y fechas de suspensión de servicio por mora, Explicación de cargos fijos, cobros por prorrateo (altas/cambios a mitad de mes), consumos adicionales y reconexión, Medios de Pago |
+| Procesos y Normativa| registro de notas de llamada, creación de tiquetes y agendamiento de visitas técnicas, Gestión de PQR (Peticiones, Quejas, Reclamos), portabilidad numérica, cancelaciones y protección de datos. |
+| Portafolio de Servicios | Precios, gigas/minutos incluidos, velocidades de bajada/subida (fibra vs. móvil) y políticas de uso justo, Modelos de módems/routers (ONT), decodificadores de TV, repetidores Wi-Fi y teléfonos del catálogo. |                  
 | Dato A | Dato B |
