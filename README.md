@@ -141,6 +141,6 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
    | Columna 1 | Columna 2 |
 | --- | --- |
 | Dato A | Dato B |
-
-                       
-
+| Dato A | Dato B |
+| Dato A | Dato B |                       
+| Dato A | Dato B |
