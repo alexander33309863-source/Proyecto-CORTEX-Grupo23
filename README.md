@@ -138,7 +138,7 @@ Sin alertas críticas: Mantiene el modo Técnico Paciente para dar seguimiento i
 Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la validación emocional y postergando la instrucción técnica hasta haber establecido confianza.
 
 ### SEMANA 7 
-   | Columna 1 | Columna 2 |
+   | Categorias | Aspectos |
 | --- | --- |
 | Facturación y Cobro | Fechas de corte, fecha límite de pago y fechas de suspensión de servicio por mora, Explicación de cargos fijos, cobros por prorrateo (altas/cambios a mitad de mes), consumos adicionales y reconexión, Medios de Pago y politica de compensacion |
 | Procesos y normativa| registro de notas de llamada, creación de tiquetes y agendamiento de visitas técnicas, Gestión de PQR (Peticiones, Quejas, Reclamos), cancelaciones y protección de datos. |
