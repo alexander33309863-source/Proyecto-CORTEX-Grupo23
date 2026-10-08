@@ -146,6 +146,7 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 | Soporte técnico basico | Significado de las luces del módem, protocolo de reinicio, estado del cableado y reporte de fallas, Cambio de nombre/clave de Wi-Fi, diferencias entre redes 2.4 GHz y 5 GHz, y configuración de APN/roaming móvil, Diferenciación entre falla física de red, saturación Wi-Fi, bloqueo por pago o fallo del equipo del usuario. |
 
 
+## SEMANA 8
 <img width="1408" height="768" alt="Gemini_Generated_Image_k0jhnlk0jhnlk0jh" src="https://github.com/user-attachments/assets/9343c7e3-27f3-426d-9f6e-8bb62c15a8fd" />
 
 <img width="1166" height="896" alt="Gemini_Generated_Image_40mr8i40mr8i40mr" src="https://github.com/user-attachments/assets/ece74276-ce83-44f5-8176-f44510e383ed" />
