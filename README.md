@@ -144,3 +144,7 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 | Procesos y normativa| registro de notas de llamada, creación de tiquetes y agendamiento de visitas técnicas, Gestión de PQR (Peticiones, Quejas, Reclamos), cancelaciones y protección de datos. |
 | Portafolio de servicios | Precios, gigas/minutos incluidos, velocidades de bajada/subida (fibra vs. móvil) y políticas de uso justo, Modelos de módems/routers (ONT), decodificadores de TV, repetidores Wi-Fi y teléfonos del catálogo. |                  
 | Soporte técnico basico | Significado de las luces del módem, protocolo de reinicio, estado del cableado y reporte de fallas, Cambio de nombre/clave de Wi-Fi, diferencias entre redes 2.4 GHz y 5 GHz, y configuración de APN/roaming móvil, Diferenciación entre falla física de red, saturación Wi-Fi, bloqueo por pago o fallo del equipo del usuario. |
+
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_k0jhnlk0jhnlk0jh" src="https://github.com/user-attachments/assets/9343c7e3-27f3-426d-9f6e-8bb62c15a8fd" />
+
