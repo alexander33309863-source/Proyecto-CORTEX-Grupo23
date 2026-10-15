@@ -152,4 +152,9 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 ## SEMANA 9
 <img width="1166" height="896" alt="Gemini_Generated_Image_40mr8i40mr8i40mr" src="https://github.com/user-attachments/assets/ece74276-ce83-44f5-8176-f44510e383ed" />
 
+## SEMANA 10
+| Columna 1 | Columna 2 | Columna 3 |
+| :--- | :---: | ---: |
+| Izquierda | Centro | Derecha |
+| Texto A | Texto B | Texto C |
 
