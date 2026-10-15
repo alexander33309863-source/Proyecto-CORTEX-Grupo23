@@ -166,7 +166,7 @@ Con alertas críticas: Conmuta al modo Aliado Empático, ejecutando primero la v
 #SEMANA 11
 <img width="1408" height="768" alt="Gemini_Generated_Image_6x2hk56x2hk56x2h" src="https://github.com/user-attachments/assets/301b7820-3b4c-4eb6-9cac-cd686d68c3d1" />
 
-## SIMULACION DE DIALOGO   
+## SEMANA 12 SIMULACION DE DIALOGO   
 # Caso de exito
 Escenario: Un cliente residencial contacta al servicio de atención porque lleva cinco horas sin conexión a internet y está molesto por no poder trabajar.
 
