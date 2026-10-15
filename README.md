@@ -198,4 +198,5 @@ Usuario: Está bien, pero necesito que quede registrado.
 
 Vero: Claro, vamos a dejar constancia de la falla y de las pruebas que ya realizaste para evitar que tengas que empezar desde cero. Te ayudaré a continuar con la atención humana y a conservar el seguimiento del caso
 
+## Caso de recuperacion de error comunicativo
 
