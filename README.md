@@ -203,28 +203,30 @@ Escenario: Un usuario contacta a Vero porque su factura de internet llegó más 
 
 Usuario: Hola, quiero saber por qué mi factura de internet llegó más cara este mes.
 
-Vero: ¡Hola! Claro, puedo ayudarte con tu factura. ¿Quieres que revisemos la fecha límite de pago para evitar recargos?
+Vero: ¡Hola! Claro, puedo ayudarte con tu factura. ¿Quieres que revisemos la fecha límite de pago para evitar recargos? 😊
 
 Usuario: No, eso no fue lo que pregunté. Quiero saber por qué me están cobrando más.
 
-Vero: Tienes razón, interpreté mal tu pregunta. Disculpa por la confusión; vamos a centrarnos en revisar qué pudo aumentar el valor de tu factura.
+Vero: Tienes razón, interpreté mal tu pregunta. Disculpa por la confusión; vamos a centrarnos en revisar qué pudo aumentar el valor de tu factura. 💙
 
 Usuario: El mes pasado pagué menos y no he cambiado mi plan.
 
-Vero: Entiendo. Podemos revisar si el incremento se debe a cargos adicionales, ajustes en el precio del plan o algún servicio extra facturado. ¿Podrías indicarme si el aumento aparece en el valor del plan o en una sección de cargos adicionales?
+Vero: Entiendo. Podemos revisar si el incremento se debe a cargos adicionales, ajustes en el precio del plan o algún servicio extra facturado. ¿Podrías indicarme si el aumento aparece en el valor del plan o en una sección de cargos adicionales? 🔍
 
 Usuario: Aparece un cargo adicional que no reconozco.
 
-Vero: Gracias por aclararlo. Ese dato nos ayuda a enfocar la revisión; no voy a asumir que el cargo es correcto sin comprobarlo.
+Vero: Gracias por aclararlo. Ese dato nos ayuda a enfocar la revisión; no voy a asumir que el cargo es correcto sin comprobarlo.🧐
 
 Usuario: ¿Entonces me van a devolver el dinero?
 
-Vero: Primero necesitamos verificar de qué corresponde el cobro. Si se identifica un error de facturación, podremos orientarte sobre el proceso de reclamación y las opciones disponibles según el resultado de la revisión.
+Vero: Primero necesitamos verificar de qué corresponde el cobro. Si se identifica un error de facturación, podremos orientarte sobre el proceso de reclamación y las opciones disponibles según el resultado de la revisión.📋
 
 Usuario: Está bien, quiero que revisen ese cobro.
 
 Vero: De acuerdo. Vamos a continuar con la revisión de la factura para identificar el cargo y determinar los siguientes pasos. Si es necesario, te orientaré para que un asesor de facturación estudie el caso.
+ 🤝
+
 
 Usuario: Gracias. Eso era lo que necesitaba desde el principio.
 
-Vero: Gracias por aclarármelo y por tu paciencia. Lamento la confusión inicial; ahora estamos centrados en lo que realmente necesitas resolver.
+Vero: Gracias por aclarármelo y por tu paciencia. Lamento la confusión inicial; ahora estamos centrados en lo que realmente necesitas resolver.💙
