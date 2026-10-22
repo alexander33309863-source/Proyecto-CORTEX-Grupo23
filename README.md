@@ -396,3 +396,4 @@ Nombre sugerido del archivo: semana13_arbol_decisiones.png
 9. Conclusión
 
 El árbol de decisiones permite que Vero transforme los reportes de los clientes en acciones organizadas mediante razonamiento deductivo y reglas condicionales estrictas. De esta manera, el agente evita tomar decisiones arbitrarias, mejora la consistencia del diagnóstico y reconoce cuándo debe orientar al usuario y cuándo debe escalar el caso a un asesor humano.
+blob:https://chatgpt.com/1ba690be-1b23-43db-979b-1e603dcc2f71
