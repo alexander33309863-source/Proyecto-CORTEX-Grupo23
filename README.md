@@ -230,3 +230,167 @@ Vero: De acuerdo. Vamos a continuar con la revisión de la factura para identifi
 Usuario: Gracias. Eso era lo que necesitaba desde el principio.
 
 Vero: Gracias por aclarármelo y por tu paciencia. Lamento la confusión inicial; ahora estamos centrados en lo que realmente necesitas resolver.💙
+SEMANA 13: EL ÁRBOL DE LA VERDAD
+
+Razonamiento deductivo y resolución de problemas
+
+1. Objetivo
+
+Diseñar un árbol de decisiones para el agente inteligente Vero, utilizando razonamiento deductivo y lógica condicional estricta. El objetivo es transformar un problema presentado por el cliente en una solución, una acción de diagnóstico o una escalada a un asesor humano.
+
+2. Principio de razonamiento deductivo
+
+Vero analiza la información recibida, identifica las condiciones del problema y aplica reglas lógicas para seleccionar la acción correspondiente. Cada decisión se toma a partir de condiciones verificables, evitando asumir causas sin evidencia.
+
+Regla lógica principal:
+
+IF (A) AND (B) THEN (C)
+
+A: Existe una condición inicial identificada.
+
+B: Se cumple una segunda condición necesaria.
+
+C: Vero ejecuta la acción definida.
+
+Ejemplo:
+
+IF (LOS está en rojo) AND (el cable está conectado) THEN (registrar la falla de señal y escalar el caso si persiste).
+
+3. Algoritmo central de Vero
+
+El algoritmo representa el proceso desde que el cliente comunica su problema hasta que recibe orientación o se inicia una escalada.
+
+Entrada: recibir el mensaje del cliente.
+
+Identificación: determinar si el problema corresponde a soporte técnico, facturación u otra consulta.
+
+Evaluación: comprobar las condiciones necesarias para identificar el caso.
+
+Decisión: aplicar las reglas condicionales IF, AND y THEN.
+
+Ejecución: orientar al cliente, realizar un diagnóstico básico o registrar y escalar el caso.
+
+Cierre: comunicar la acción realizada y los siguientes pasos, sin inventar tiempos de solución.
+
+4. Árbol de decisiones de Vero
+
+El árbol organiza las decisiones principales según el problema reportado por el usuario y las condiciones comprobadas.
+
+flowchart TD
+    A([Inicio: mensaje del cliente]) --> B{¿Qué tipo de problema presenta?}
+
+    B -->|Soporte técnico| C{¿La conexión falla?}
+    B -->|Facturación| H{¿Hay un cobro que el cliente no reconoce?}
+    B -->|Consulta general| M[Responder la consulta directamente]
+
+    C -->|Sí| D{¿La luz LOS está roja?}
+    C -->|No| E[Guiar el diagnóstico básico]
+
+    D -->|Sí| F{¿El cable está conectado y sin daños visibles?}
+    D -->|No| G[Revisar otros indicadores y causas posibles]
+
+    F -->|Sí| I[Registrar la falla y escalar a soporte técnico]
+    F -->|No| J[Indicar revisión visual segura de la conexión]
+
+    E --> K{¿La falla persiste o es recurrente?}
+    G --> K
+    J --> K
+
+    K -->|Sí| I
+    K -->|No| L[Continuar diagnóstico paso a paso]
+
+    H -->|Sí| N[Revisar el detalle de la factura]
+    H -->|No| O[Explicar los cargos identificados]
+
+    N --> P{¿Se confirma un error de facturación?}
+    P -->|Sí| Q[Orientar sobre la reclamación y escalar si corresponde]
+    P -->|No| R[Explicar el origen del cobro con la información disponible]
+
+    I --> S([Informar próximos pasos])
+    Q --> S
+    R --> S
+    L --> T([Verificar el resultado])
+    M --> U([Fin])
+    O --> U
+    T --> U
+    S --> U
+
+5. Reglas de lógica condicional estricta
+
+Condición IF
+
+Condición AND
+
+Acción THEN
+
+La conexión presenta una falla
+
+La luz LOS está roja
+
+Identificar una posible falla de señal y comprobar la conexión visualmente.
+
+La falla persiste
+
+Ya se realizaron las comprobaciones básicas
+
+Registrar y escalar el caso a soporte técnico.
+
+El cliente reporta un cobro desconocido
+
+El cargo aparece en el detalle de la factura
+
+Revisar el concepto y orientar sobre el procedimiento de reclamación.
+
+La falla lleva más de cuatro horas
+
+El cliente manifiesta frustración o la falla es recurrente
+
+Activar el modo Aliado Empático y priorizar la escalada.
+
+El cliente realiza una consulta general
+
+La pregunta puede responderse con información disponible
+
+Dar una respuesta directa y comprensible.
+
+Importante: cuando una condición no se cumple, Vero no debe ejecutar automáticamente la acción asociada. Debe evaluar la siguiente regla o solicitar la información necesaria.
+
+6. Ejemplo de resolución de un problema
+
+Situación: un cliente lleva cinco horas sin internet y la luz LOS del módem está roja.
+
+A: el cliente reporta una interrupción del servicio.
+
+B: la luz LOS está roja y el problema persiste.
+
+Regla: IF (falla de internet) AND (LOS roja y falla persistente) THEN (registrar y escalar el caso).
+
+Resultado: Vero reconoce la molestia del cliente, explica que podría existir un problema con la señal de fibra óptica y registra la información para continuar la atención con soporte técnico.
+
+Vero no garantiza una hora de reparación, ya que el tiempo depende de la causa y de la revisión técnica.
+
+7. Relación con el proyecto CORTEX
+
+El árbol de decisiones integra los componentes desarrollados en semanas anteriores:
+
+Atención: identifica la información relevante del mensaje.
+
+Memoria: utiliza el conocimiento técnico y las reglas previamente definidas.
+
+Lenguaje: explica el diagnóstico con palabras sencillas.
+
+Emoción: activa el modo Aliado Empático cuando detecta frustración o una falla prolongada.
+
+Razonamiento: aplica condiciones verificables para decidir la siguiente acción.
+
+8. Evidencia visual en Miro
+
+El árbol de decisiones debe representarse visualmente en Miro mediante nodos de inicio y fin, bloques de proceso, preguntas de decisión y flechas con las respuestas correspondientes.
+
+Evidencia requerida: exportar el mapa de decisiones principal como imagen PNG y subirlo al repositorio de GitHub del proyecto CORTEX – Grupo 23.
+
+Nombre sugerido del archivo: semana13_arbol_decisiones.png
+
+9. Conclusión
+
+El árbol de decisiones permite que Vero transforme los reportes de los clientes en acciones organizadas mediante razonamiento deductivo y reglas condicionales estrictas. De esta manera, el agente evita tomar decisiones arbitrarias, mejora la consistencia del diagnóstico y reconoce cuándo debe orientar al usuario y cuándo debe escalar el caso a un asesor humano.
