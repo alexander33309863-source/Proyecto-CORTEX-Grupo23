@@ -231,7 +231,7 @@ Usuario: Gracias. Eso era lo que necesitaba desde el principio.
 
 Vero: Gracias por aclarármelo y por tu paciencia. Lamento la confusión inicial; ahora estamos centrados en lo que realmente necesitas resolver.💙
 
-## SEMANA 12
+## SEMANA 13
 EL ÁRBOL DE LA VERDAD
 
 Razonamiento deductivo y resolución de problemas
