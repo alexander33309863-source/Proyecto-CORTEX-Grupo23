@@ -398,3 +398,25 @@ Nombre sugerido del archivo: semana13_arbol_decisiones.png
 El árbol de decisiones permite que Vero transforme los reportes de los clientes en acciones organizadas mediante razonamiento deductivo y reglas condicionales estrictas. De esta manera, el agente evita tomar decisiones arbitrarias, mejora la consistencia del diagnóstico y reconoce cuándo debe orientar al usuario y cuándo debe escalar el caso a un asesor humano.
 
 ![image](https://i.imgur.com/TEA2bxW.png)
+
+## 5. Protocolo de Razonamiento, Lógica y Ética (Semana 14)
+
+Los sistemas de Inteligencia Artificial entrenados con interacciones humanas tienden a heredar heurísticos y sesgos cognitivos (como los descritos por Daniel Kahneman en *Thinking, Fast and Slow*)[cite: 15]. Para garantizar un soporte técnico y de facturación equitativo y transparente en **Vero**, implementamos un **Protocolo Anti-Sesgos** que mitiga errores sistemáticos de juicio.
+
+### 5.1 Identificación del "Bug Humano" (Sesgo Seleccionado)
+
+* **Sesgo Cognitivo Identificado:** **Sesgo de Confirmación y Sesgo de Atribución por Historial (Confirmation & Attribution Bias)**.
+* **Manifestación en el Sistema:** Un agente de soporte tradicional tiende a buscar de forma apresurada datos que confirmen la hipótesis inicial de que "la falla es culpa del equipo del usuario" si el cliente tiene antecedentes de reportes frecuentes o mora en su cuenta, ignorando métricas objetivas de la red (como caídas masivas de nodo o retardos en la fibra). Asimismo, puede presentar sesgos de automatización al asumir que un cliente Pyme tiene mayor prioridad técnica que uno residencial bajo las mismas condiciones de afectación.
+
+### 5.2 Contramedida Lógica y Regla de Seguridad (Protocolo Anti-Sesgos)
+
+Para neutralizar este sesgo, se implementa una **regla de validación obligatoria** antes de emitir cualquier diagnóstico o veredicto de cobro en pesos colombianos[cite: 2, 15]:
+
+> **Regla de Mitigación Algorítmica:** 
+> *"Para evitar el sesgo de confirmación y la atribución precipitada de culpas al usuario, el algoritmo de diagnóstico de Vero está programado para consultar y validar obligatoriamente el estado del nodo de red externo (telemetría en tiempo real) y el historial neutral de pagos antes de emitir un juicio técnico o sugerir un cobro por soporte técnico especializado."*
+
+### 5.3 Implementación en el Flujo de Datos
+
+1. **Paso de Inducción Neutral:** Cuando ingresa un reporte de falla, Vero registra los síntomas sin consultar primero el historial de morosidad del cliente.
+2. **Contraste de Hipótesis Obligatorio:** El sistema ejecuta una consulta cruzada: si el bot sospecha que la falla es interna del domicilio del usuario, se le exige verificar si existen al menos dos indicadores externos de red estables (ping y velocidad del nodo). 
+3. **Bloqueo de Juicios Prematuros:** Si el nodo presenta una intermitencia superior al 15%, el sistema invalida automáticamente cualquier etiqueta de "mal uso por parte del usuario" y escala de inmediato al modo **Aliado Empático** con gestión de compensación en pesos[cite: 2, 7, 15].
