@@ -420,3 +420,8 @@ Para neutralizar este sesgo, se implementa una **regla de validación obligatori
 1. **Paso de Inducción Neutral:** Cuando ingresa un reporte de falla, Vero registra los síntomas sin consultar primero el historial de morosidad del cliente.
 2. **Contraste de Hipótesis Obligatorio:** El sistema ejecuta una consulta cruzada: si el bot sospecha que la falla es interna del domicilio del usuario, se le exige verificar si existen al menos dos indicadores externos de red estables (ping y velocidad del nodo). 
 3. **Bloqueo de Juicios Prematuros:** Si el nodo presenta una intermitencia superior al 15%, el sistema invalida automáticamente cualquier etiqueta de "mal uso por parte del usuario" y escala de inmediato al modo **Aliado Empático** con gestión de compensación en pesos[cite: 2, 7, 15].
+
+
+## SEMANA 15
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/5e0b5a66-524d-4eae-be40-299f9fa39332" />
+
