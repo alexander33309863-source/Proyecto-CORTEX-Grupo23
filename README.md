@@ -429,5 +429,19 @@ Para neutralizar este sesgo, se implementa una **regla de validación obligatori
 <img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/5e0b5a66-524d-4eae-be40-299f9fa39332" />
 
 ## SEMANA 16
+## 6. Sistema de Motivación y Control 
 
+En el diseño de agentes inteligentes, la motivación opera como la **Función de Recompensa (Reward Function)** que orienta su comportamiento ante dilemas operativos.
+
+### 6.1 Definición de la Meta Principal y Éxito del Agente
+* **Métrica de Éxito Primaria:** Maximizar la **Satisfacción y Calidad de Resolución** del cliente en el sector de telecomunicaciones, garantizando transparencia en los montos expresados en pesos colombianos.
+* **Métrica Secundaria:** Eficiencia temporal en la respuesta.
+
+### 6.2 El Dilema Operativo: Eficiencia vs. Calidad
+Un bot de soporte técnico se enfrenta frecuentemente a un conflicto motivacional:
+* *Opción A (Eficiencia):* Cerrar tickets con rapidez para reducir el tiempo promedio de atención por usuario.
+* *Opción B (Calidad):* Dedicar los recursos necesarios a explicar el diagnóstico y calmar al usuario afectado.
+
+### 6.3 Regla Lógica de Equilibrio (Función Objetivo)
+> **"Nuestra IA prioriza la Calidad sobre la Velocidad. Si el sistema detecta frustración alta, reincidencia o un corte de servicio superior a 4 horas, ignorará automáticamente el límite de tiempo de cierre de ticket para dedicar mayores recursos de procesamiento a explicar la solución técnica y validar la compensación económica en pesos."**
 
