@@ -3,7 +3,7 @@
 
 ## FASE 1
 
-# Semana 1
+ Semana 1
 "Nombre del equipo" callcenter
 
 "Integrantes"
@@ -11,7 +11,7 @@ Santiago Avellaneda
 Deivis  Monsalve
 Edwards Archila
 
-# Semana 2 
+  Semana 2 
 <img width="1533" height="645" alt="Captura de pantalla 2026-08-13 101030" src="https://github.com/user-attachments/assets/598e10a5-6284-4fd1-a9b8-a674c2302555" />
 
 ##perfil del agente
@@ -40,7 +40,7 @@ Edwards Archila
 
 * **Límites:** No cancela contratos, no cambia titulares, no maneja disputas legales ni promete tiempos de cuadrillas externas.
 
-* #semana 3
+*  Semana 3
 * <img width="1115" height="1092" alt="image" src="https://github.com/user-attachments/assets/53e68908-3f69-431c-8c96-acc4aa6f1d53" />
 
 ## 3. Radar Cognitivo de Vero
