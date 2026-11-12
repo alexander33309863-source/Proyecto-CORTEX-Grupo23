@@ -426,3 +426,5 @@ Para neutralizar este sesgo, se implementa una **regla de validación obligatori
 ## SEMANA 15
 <img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/5e0b5a66-524d-4eae-be40-299f9fa39332" />
 
+## SEMANA 16
+
