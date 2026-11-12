@@ -428,3 +428,4 @@ Para neutralizar este sesgo, se implementa una **regla de validación obligatori
 
 ## SEMANA 16
 
+
