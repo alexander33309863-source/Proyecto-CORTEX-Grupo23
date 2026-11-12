@@ -445,3 +445,6 @@ Un bot de soporte técnico se enfrenta frecuentemente a un conflicto motivaciona
 ### 6.3 Regla Lógica de Equilibrio (Función Objetivo)
 > **"Nuestra IA prioriza la Calidad sobre la Velocidad. Si el sistema detecta frustración alta, reincidencia o un corte de servicio superior a 4 horas, ignorará automáticamente el límite de tiempo de cierre de ticket para dedicar mayores recursos de procesamiento a explicar la solución técnica y validar la compensación económica en pesos."**
 
+## SEMANA 17
+
+<img width="322" height="812" alt="image" src="https://github.com/user-attachments/assets/82eb8491-a89c-43c7-ade3-a021224d7fc2" />
